@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hello 👋, this is Ömer Özkurt
+
+👯 I'm a Full Stack Developer living in Bursa, Turkey.
+🔭 I’m currently working on for Industrial Development Bank of Türkiye(TSKB)
+
+📫 How to reach me ozkurtomer@outlook.com
+
+🤔 I wish you happy days :)
+
 <!--
 **ozkurtomer/ozkurtomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
