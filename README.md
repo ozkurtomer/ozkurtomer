@@ -3,7 +3,7 @@
 Hello 👋, this is Ömer Özkurt
 
 👯 I'm a Full Stack Developer living in Bursa, Turkey.
-🔭 I’m currently working on for Industrial Development Bank of Türkiye(TSKB)
+🔭 I’m currently working on for Turkiye Sinai Kalkinma Bankasi(Industrial Development Bank of Türkiye)
 
 📫 How to reach me ozkurtomer@outlook.com
 
